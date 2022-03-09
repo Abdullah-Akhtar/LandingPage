@@ -1,7 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif !important;
 }
-.container,.left{
+.container-fluid,.left{
     height: 100%;
     display: flex;
     justify-content: center;
