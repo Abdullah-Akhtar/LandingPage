@@ -1,0 +1,12 @@
+h1{
+    text-transform: capitalize !important;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
