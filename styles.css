@@ -10,3 +10,11 @@ body{
 h1{
     font-weight: 800 !important;
 }
+@media (max-width: 768px) {
+    .container-fluid,.left,.display-3{
+        height: auto;
+        display: block;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+}
